@@ -31,7 +31,7 @@ class MakePet {
 /*const cat = new MakePet ("Mckast","macak");
 console.log(cat);*/
 
-class Cat extends MakePet{
+/*class Cat extends MakePet{
     constructor(name,type,color){
         super(name,type);
         this.color = color;
@@ -49,4 +49,4 @@ const cat = new Cat('tom','macak','zuta');
 const dog = new Dog('kuca','pas','crna');
 
 console.log(cat);
-console.log(dog);
+console.log(dog);*/
